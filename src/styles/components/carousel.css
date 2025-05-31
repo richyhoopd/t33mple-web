@@ -12,3 +12,19 @@ h1 {
     font-size: 33px;
 
 }
+
+@media(max-width: 960px) {
+    #car-image {
+        width: 90%;
+    }
+
+    .carousel {
+        width: 100%
+    }
+
+    h1 {
+        width: 90%;
+        font-size: 26px;
+        text-align: center;
+    }
+}
