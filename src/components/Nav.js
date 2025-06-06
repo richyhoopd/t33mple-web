@@ -1,5 +1,5 @@
 import React from 'react';
-import Logo from '../assets/logo-big.png';
+import Logo from '../assets/T33MPLE.svg';
 import '../styles/components/nav.css';
 
 export default function Nav() {
