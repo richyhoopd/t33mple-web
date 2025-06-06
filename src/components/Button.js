@@ -5,7 +5,7 @@ export default function Button() {
 
   return (
     <div className='fucking-button'>
-        <button onClick={() => alert("Aun no, espera un poco mas :)")}>VAMPONIGHT</button>
+        <button onClick={() => alert("Aun no, espera un poco mas :)")}>VAMP00NIGHT</button>
     </div>
   )
 }
